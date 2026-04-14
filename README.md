@@ -27,6 +27,7 @@ Two-layer CNN built in PyTorch:
 
 - `pytorch_CNN_50000.py` — model architecture and training loop
 - `test_accuracy.py` — evaluation on test set with confusion matrix
+- `report.pdf` — full project report including methodology and statistical analysis
 
 ## Dataset
 
